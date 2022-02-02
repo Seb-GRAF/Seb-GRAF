@@ -1,4 +1,4 @@
-### 👋 Hi there
+## 👋 Hi there
 I'm Seb
 Started learning programming end of 2021.
 I'm having a lot of fun learning and the challenge is very rewarding.
