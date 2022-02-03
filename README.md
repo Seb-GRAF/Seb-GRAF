@@ -1,9 +1,7 @@
 ## 👋 Hi there
-I'm Seb
-Started learning programming end of 2021.
-I'm having a lot of fun learning and the challenge is very rewarding.
+End of 2021 I started learning web development, been enjoying the challenge a lot.
 
-## 🎯 Goal
+## 🎯 Goals
 - Mastering ReactJS
 - Learning backend
 - Becoming a full-stack web dev
