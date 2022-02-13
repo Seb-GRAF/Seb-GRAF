@@ -1,5 +1,5 @@
 ## 👋 Hi there
-End of 2021 I started learning web development, been enjoying the challenge a lot.
+I started learning web development middle of dec. 2021. Coming from a different background, I have been enjoying the challenge a lot.
 
 ## 🎯 Goals
 - Mastering ReactJS
