@@ -1,6 +1,6 @@
-### [seb-graf.com](https://seb-graf.com)
+<h2 align="center"> www.seb-graf.com </h1>
 
-<h1 align="center"> 👋 Hi there </h1>
+<h1 align="center">👋 Hi there</h1>
 <p align="center">
   I started learning web development end of 2021, and it</br>
   now has become one of the things I enjoy doing the most!</br>
