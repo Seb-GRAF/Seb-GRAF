@@ -1,10 +1,10 @@
 <h2> www.seb-graf.com </h1>
 
-<h1>👋 Hi there</h1>
+<h1>👋 Hey there</h1>
 <p>
-  I started learning web development end of 2021, and it</br>
-  now has become one of the things I enjoy doing the most!</br>
-  Everyday is an opportunity to learn something new.
+  I started learning frontend development end of 2021, and it</br>
+  now has become the things I enjoy doing the most!</br>
+  Everyday is a new opportunity to learn.
 </p>
 
 <h1> �💻 Currently working with </h1>
