@@ -2,8 +2,11 @@
 
 <h1>👋 Hey there</h1>
 <p>
+  I'm Seb, a 28 years old web developer based in CH🇨🇭.</br>
+  </br>
   I started learning frontend development end of 2021, and it</br>
   now has become the things I enjoy doing the most!</br>
+  </br>
   Everyday is a new opportunity to learn.
 </p>
 
