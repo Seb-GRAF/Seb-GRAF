@@ -1,32 +1,21 @@
-<h2> www.seb-graf.com </h1>
+## [👋 Hey there](www.seb-graf.com)
 
-<h1>👋 Hey there</h1>
-<p>
   I'm Seb, a 28 years old web developer based in CH🇨🇭.</br>
   </br>
-  I started learning frontend development end of 2021, and it</br>
-  now has become the things I enjoy doing the most!</br>
+  I started learning frontend development end of 2021, and it now has become one of the things I enjoy doing the most!</br>I do mostly frontend work, but I have some base knowledge of NodeJS and Express</br>
   </br>
-  Everyday is a new opportunity to learn.
-</p>
+  Learning is fun, so might as well do it as much as possible!
 
-<h1> �💻 Currently working with </h1>
-<p>
-<img src="https://camo.githubusercontent.com/b78effd0bf898b043de732ebd9a520e93717fa8d0103e471d5af8c93e8f899a8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d436f6c6f724e616d6526636f6c6f723d626c61636b"> <img src="https://camo.githubusercontent.com/2c00c3d4a81ed237b80593834f347d28901b3f421c33a5f2c170deff845e5585/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742e6a732d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d7265616374266c6f676f436f6c6f723d436f6c6f724e616d6526636f6c6f723d626c61636b"> <img src="https://camo.githubusercontent.com/2a3c7fc231aff520b66d757efebf502941249f8c125a4542531ccda5f3bf77f4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d63737333266c6f676f436f6c6f723d436f6c6f724e616d6526636f6c6f723d626c61636b"> <img src="https://camo.githubusercontent.com/db05093db34dc00d974b707eaa3cd2d9e19c047fe776d59ac7144d552ac2ac60/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536173732d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d53617373266c6f676f436f6c6f723d436f6c6f724e616d6526636f6c6f723d626c61636b"> 
-<img src="https://camo.githubusercontent.com/98fc2813520da7bbd412670f4948515368a13959e6964c4e9f12fdbfef62d367/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e504d2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6e706d266c6f676f436f6c6f723d436f6c6f724e616d6526636f6c6f723d626c61636b"> <img src="https://camo.githubusercontent.com/a127505d3495875c17ab51a8f8b3c83a5d2cfec0f2acbe00862f26d99aec75f2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6573742d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6a657374266c6f676f436f6c6f723d436f6c6f724e616d6526636f6c6f723d626c61636b">
-</p>
+## 💻 Some of the tools I use
 
-<!--
-**Seb-GRAF/Seb-GRAF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
