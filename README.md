@@ -1,4 +1,4 @@
-## [👋 Hey there](www.seb-graf.com)
+## [👋 Hey there](https://www.seb-graf.com)
 </br>
   I'm Seb, a 28 years old web developer based in CH🇨🇭.</br>
   </br>
