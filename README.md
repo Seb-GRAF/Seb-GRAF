@@ -2,7 +2,7 @@
 </br>
   I'm Seb, a 28 years old web developer based in CH🇨🇭.</br>
   </br>
-  Frontend development is what I love. I started self learning in 2021 and it now has become one of the things I enjoy doing the most!</br>I mostly do frontend work, and I also have some knowledge of NodeJS and Express</br>
+  Frontend development is what I love. I started self learning in 2021 and it now has become one of the things I enjoy doing the most!</br>I mostly do frontend work, and I also have some knowledge of NodeJS and Express.</br>
   </br>
   Learning is fun, so might as well do it as much as possible!
   </br>
