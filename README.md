@@ -8,7 +8,7 @@
   </br>
   </br>
 
-## 💻 Some tools I use
+## 🛠 Some tools I use
 </br>
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
