@@ -11,7 +11,7 @@ I'm a Seb, a frontend developer based in Switzerland🇨🇭
   </br>
   </br>
 
-## 🛠 Some tools I use
+<h2> 🛠 Some tools I use </h2>
 </br>
 
 ![Next JS](https://img.shields.io/badge/Next-%23121212?style=for-the-badge&logo=next.js&logoColor=white)
@@ -37,10 +37,10 @@ I'm a Seb, a frontend developer based in Switzerland🇨🇭
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
   </br>
-  </br>
-  </br>
 
-<div align="center">
+<details>
+<summary><h3>:bar_chart: GitHub Stats</h2></summary>
+  </br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seb-graf&layout=compact&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api?username=seb-graf&include_all_commits=true&hide=issues,contribs&theme=radical&show_icons=true&line_height=30"/>
-</div>
+
