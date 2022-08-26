@@ -1,8 +1,11 @@
-## [👋 Hey there](https://www.seb-graf.com)
-</br>
-  I'm Seb, a 28 years old web developer based in Switzerland🇨🇭.</br>
+## Hey there [👋](https://seb-graf.com)
+
+I'm a Seb, a frontend developer based in Switzerland🇨🇭
   </br>
-  Frontend development is what I love. I started self learning in 2021 and it now has become one of the things I enjoy doing the most!</br>I mostly do frontend work, and I also have some knowledge of NodeJS and Express.</br>
+  </br>
+  Coding nice UIs is what I love. I started self learning in 2021 and it now has become one of the things I enjoy doing the most!
+   </br>
+  I mostly do frontend work, but I also like explorind backend and design for fun.</br>
   </br>
   Learning is fun, so might as well do it as much as possible!
   </br>
@@ -11,7 +14,7 @@
 ## 🛠 Some tools I use
 </br>
 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-%23121212?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -20,7 +23,7 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23212121.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
@@ -29,7 +32,15 @@
 
 
 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=black)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
+  </br>
+  </br>
+  </br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seb-graf&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=seb-graf&include_all_commits=true&hide=issues,contribs&theme=radical&show_icons=true&line_height=30"/>
+</div>
