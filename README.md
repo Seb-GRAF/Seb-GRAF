@@ -39,5 +39,5 @@ I'm a Seb, a frontend developer based in Switzerland🇨🇭
 <h2>:bar_chart: GitHub Stats</h2></summary>
   </br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seb-graf&layout=compact&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=seb-graf&include_all_commits=true&hide=issues,contribs&theme=radical&show_icons=true&line_height=30"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=seb-graf&hide=issues,contribs&theme=radical&show_icons=true&line_height=30"/>
 
