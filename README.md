@@ -5,7 +5,7 @@ I'm a Seb, a frontend developer based in Switzerland🇨🇭
   </br>
   Coding nice UIs is what I love. I started self learning in 2021 and it now has become one of the things I enjoy doing the most!
    </br>
-  I mostly do frontend work, but I also like explorind backend and design for fun.</br>
+  I mostly do frontend work, but I also like toying around with everything from design to backend.</br>
   </br>
   Learning is fun, so might as well do it as much as possible!
   </br>
