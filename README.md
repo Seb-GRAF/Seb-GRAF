@@ -34,10 +34,3 @@ I'm a Seb, a frontend developer based in Switzerland🇨🇭
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=black)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-</br>
-</br>
-<h2>:bar_chart: GitHub Stats</h2></summary>
-  </br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seb-graf&layout=compact&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=seb-graf&hide=issues,contribs&theme=radical&show_icons=true&line_height=30"/>
-
