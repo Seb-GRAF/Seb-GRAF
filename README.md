@@ -1,6 +1,6 @@
 ## Hey there [👋](https://seb-graf.com)
 
-I'm a Seb, a frontend developer based in Switzerland🇨🇭
+I'm a Seb, a web developer based in Switzerland🇨🇭
   </br>
   </br>
   Coding nice UIs is what I love. I started self learning in 2021 and it now has become one of the things I enjoy doing the most!
