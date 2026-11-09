@@ -30,8 +30,6 @@ Frontend developer at [Liip](https://www.liip.ch/en) in Switzerland. By day I ma
   </tr>
 </table>
 
-**Also in the drawer:** [Tailwind Helper](https://github.com/Seb-GRAF/tailwind-helper), a Tailwind multitool for classes, units and colors · [Portfolio v2](https://github.com/Seb-GRAF/portfolio-v2), the site before the current one · [Battleship](https://seb-graf.github.io/battleship), because every dev needs one game
-
 ## `~/.config/seb.json`
 
 ```json
