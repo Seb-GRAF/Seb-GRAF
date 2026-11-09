@@ -8,6 +8,7 @@ Frontend developer at [Liip](https://www.liip.ch/en) in Switzerland. By day I ma
 
 [![Website](https://img.shields.io/badge/sebg.ch-2261e9?style=for-the-badge&logo=astro&logoColor=white)](https://sebg.ch)
 [![StableBar](https://img.shields.io/badge/stablebar.app-0b0b0c?style=for-the-badge&logo=swift&logoColor=white)](https://stablebar.app)
+[![Total stars](https://img.shields.io/github/stars/Seb-GRAF?style=for-the-badge&logo=github&label=stars&labelColor=0b0b0c&color=2261e9)](https://github.com/Seb-GRAF?tab=repositories&sort=stargazers)
 
 ## Things I'm building
 
